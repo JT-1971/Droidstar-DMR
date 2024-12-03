@@ -6,16 +6,25 @@ This project uses QT 6.7.2
 Installation instructions
 
 sudo apt install libqt6*
+
 sudo apt install qml6*
+
 sudo apt install qt6-*-dev
+
 git clone --recurse-submodules --remote-submodules https://github.com/JT-1971/Droidstar-DMR
+
 cd Droidstar-DMR
+
 qmake6
+
 make
+
 sudo make install
+
 sudo ldconfig
 
 To run, open a command line and run
+
 /opt/DroidStar/bin/DroidStar &
 
 Cheers, John telek
