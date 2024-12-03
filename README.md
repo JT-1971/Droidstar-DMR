@@ -2,7 +2,7 @@
 
 This project is a modified version of the [original Droidstar App](https://github.com/nostar/DroidStar) by Doug McLain. The modifications introduce new features and enhancements to improve user experience and functionality.
 
-This project uses QT 6.7.2
+This project uses QT6
 Installation instructions
 
 sudo apt install libqt6*
@@ -10,6 +10,12 @@ sudo apt install libqt6*
 sudo apt install qml6*
 
 sudo apt install qt6-*-dev
+
+At this point you can run the precompiled executable in the droidstar directory.
+
+
+
+To build it on your machine.
 
 git clone --recurse-submodules --remote-submodules https://github.com/JT-1971/Droidstar-DMR
 
