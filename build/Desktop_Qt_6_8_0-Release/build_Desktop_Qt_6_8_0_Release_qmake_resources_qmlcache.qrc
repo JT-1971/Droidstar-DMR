@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<RCC version="1.0">
+    <qresource prefix="/DroidStar">
+        <file alias="main.qml">../../main.qml</file>
+        <file alias="AboutTab.qml">../../AboutTab.qml</file>
+        <file alias="HostsTab.qml">../../HostsTab.qml</file>
+        <file alias="LogTab.qml">../../LogTab.qml</file>
+        <file alias="MainTab.qml">../../MainTab.qml</file>
+        <file alias="SettingsTab.qml">../../SettingsTab.qml</file>
+        <file alias="fontawesome-webfont.ttf">../../fontawesome-webfont.ttf</file>
+        <file alias="QsoTab.qml">../../QsoTab.qml</file>
+    </qresource>
+</RCC>
